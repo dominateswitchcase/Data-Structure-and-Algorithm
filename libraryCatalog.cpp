@@ -3,7 +3,7 @@
 #include <vector>
 using namespace std;
 
-int main(){
+int libraryCatalog(){
     int M, N;
     cin >> M >> N;
 
